@@ -1,0 +1,2 @@
+"color_issues/hsv.typ" (line 1, column 2):
+Identifier "color" not found

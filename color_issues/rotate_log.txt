@@ -1,0 +1,2 @@
+"color_issues/rotate.typ" (line 1, column 2):
+Color does not have a method "rotate" or FieldAccess requires a dictionary

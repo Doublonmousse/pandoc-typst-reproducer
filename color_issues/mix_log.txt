@@ -1,0 +1,2 @@
+"color_issues/mix.typ" (line 1, column 2):
+Color does not have a method "mix" or FieldAccess requires a dictionary

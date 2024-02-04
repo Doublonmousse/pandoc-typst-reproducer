@@ -1,0 +1,2 @@
+"color_issues/linear_rgb.typ" (line 1, column 2):
+Identifier "color" not found
