@@ -16,4 +16,4 @@ for file in typ_files:
     print(output_tex)
 
     ## eval pandoc and > into a log file
-    out = os.system(f"pandoc {rel_path} -o {output_tex} &> {log_file}")
+    out = os.system(f"pandoc {rel_path} -o {output_tex}  &> {log_file}")

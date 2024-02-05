@@ -1,0 +1,6 @@
+PWD /Volumes/temp/GitHub/pandoc-typst-reproducer/quote
+INPUT /usr/local/texlive/2023/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Volumes/temp/GitHub/pandoc-typst-reproducer/quote/quote2.tex
+OUTPUT quote2.log
