@@ -1,0 +1,4 @@
+"package_not_found/ctheorems.typ" (line 1, column 2):
+"/Users/mathieu/Library/Caches/typst/packages/preview/ctheorems/1.1.2/lib.typ" (line 223, column 18):
+unexpected '>'
+expecting operator

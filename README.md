@@ -1,7 +1,6 @@
 # pandoc-typst-reproducer
-reproducing limits of pandoc -> tex conversion
 
-A large portion of the issues described in this repo are fixed, outside of color support.
+personal repo to reproduce limits of pandoc -> tex conversion with examples
 
 # Github for reporting issues 
 
