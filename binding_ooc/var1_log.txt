@@ -1,2 +1,0 @@
-"binding_ooc/var1.typ" (line 8, column 5):
-Encountered binding out of proper context

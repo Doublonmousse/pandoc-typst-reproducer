@@ -1,4 +1,0 @@
-"quote/quote.typ" (line 1, column 2):
-unexpected Elt {eltName = Identifier "parbreak", eltPos = Just "quote/quote.typ" (line 1, column 2), eltFields = fromList []}
-expecting end of input
-Pattern match failure in 'do' block at src/Text/Pandoc/Readers/Typst.hs:108:26-33 or Cannot convert VNone to boolean
